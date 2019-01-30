@@ -1,1 +1,1 @@
-# project-1-reciepe
+# project-1-recipe
